@@ -18,7 +18,7 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
-string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
+string[] array1 = new string[5] {"123", "23", "hello", "win", "result"};
 string[] array2 = new string[array1.Length];
 
 MainMethod(array1, array2);
